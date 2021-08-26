@@ -4,7 +4,6 @@
 
 ### Connect with me:
 <a href="https://instagram.com/ishivamshukla" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="santdas36" height="40" width="40" /></a>
-
 <a href="https://linkedin.com/in/ishivamshukla" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="https://fb.com/itshivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="https://twitter.com/itshivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
@@ -53,6 +52,10 @@
 <a href="https://github.com/ishivamshukla">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishivamshukla&show_icons=true&theme=light&line_height=27" alt="Shivam Shukla's github stats"/>
 </a>
+  
+  <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ishivamshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="santdas36" /></a></p><br><br>
+  
 
 <div align="center">
 
