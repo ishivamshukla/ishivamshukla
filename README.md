@@ -24,7 +24,6 @@
 [![GitHub ishivamshukla](https://img.shields.io/github/followers/ishivamshukla?label=follow&style=social)](https://github.com/ishivamshukla)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ishivamshukla.in-2648ff?style=flat-square&logo=google-chrome)](https://ishivamshukla.in/)
 
-**Languages and Tools:**  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
