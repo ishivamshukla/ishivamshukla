@@ -4,10 +4,10 @@
 
 ### Connect with me:
 <a href="https://instagram.com/ishivamshukla" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="santdas36" height="40" width="40" /></a>
+
 <a href="https://linkedin.com/in/ishivamshukla" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="https://fb.com/itshivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 <a href="https://twitter.com/itshivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
-<a href="https://dribbble.com/ishivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Dribbble_colored_svg-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
 <br/>
 <br/>
 
@@ -41,7 +41,8 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+ <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+   </p>
 
 <br/>
 
