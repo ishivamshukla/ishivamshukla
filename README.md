@@ -44,10 +44,9 @@
 
 <br/>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubGW&layout=compact&hide=html)
 
 <a href="https://github.com/ishivamshukla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&theme=light&hide_langs_below=1" />
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&layout=compact&hide=html)
 </a>
 <a href="https://github.com/ishivamshukla">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishivamshukla&show_icons=true&theme=light&line_height=27" alt="Shivam Shukla's github stats"/>
