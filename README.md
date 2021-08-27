@@ -44,7 +44,8 @@
 
 <br/>
 
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubGW&layout=compact&hide=html)
+
 <a href="https://github.com/ishivamshukla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&theme=light&hide_langs_below=1" />
 </a>
