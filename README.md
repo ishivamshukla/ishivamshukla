@@ -24,7 +24,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-ishivamshukla.in-2648ff?style=flat-square&logo=google-chrome)](https://ishivamshukla.in/)
 
 
-<a href="https://app.daily.dev/ishivamshukla"><img align="left" src="https://api.daily.dev/devcards/a4245da21dc747d88629a1241ceaf901.png?r=vbd" width="400" alt="Shivam Shukla's Dev Card"/></a>
+<a href="https://app.daily.dev/ishivamshukla"><img align="right" src="https://api.daily.dev/devcards/a4245da21dc747d88629a1241ceaf901.png?r=vbd" width="350" alt="Shivam Shukla's Dev Card"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
