@@ -10,13 +10,13 @@
 <br/> -->
 
 
-- 🔭 I’m currently working on [Orcip](https://orcip.com/).
+<!-- - 🔭 I’m currently working on [Orcip](https://orcip.com/).
 - 🌱 I’m currently learning more about Nextjs and Gatsby.
 - 💬 Ask me about JavaScript or any tech related stuff.
 - 💬 Ask me about React or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @itshivamshukla](https://twitter.com/itshivamshukla)
 - 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His -->
 
 [![Twitter: itshivamshukla](https://img.shields.io/twitter/follow/itshivamshukla?style=social)](https://twitter.com/itshivamshukla)
 [![Linkedin: ishivamshukla](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
