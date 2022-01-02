@@ -18,7 +18,7 @@
 - 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
 - 😄 Pronouns: He/His -->
 
-[![Twitter: itshivamshukla](https://img.shields.io/twitter/itshivamshukla?style=social)](https://twitter.com/itshivamshukla)
+[![Twitter: itshivamshukla](https://img.shields.io/twitter/follow/itshivamshukla?style=social)](https://twitter.com/itshivamshukla)
 [![Linkedin: ishivamshukla](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
 [![GitHub ishivamshukla](https://img.shields.io/github/followers/ishivamshukla?label=follow&style=social)](https://github.com/ishivamshukla)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ishivamshukla.in-2648ff?style=flat-square&logo=google-chrome)](https://ishivamshukla.in/)
