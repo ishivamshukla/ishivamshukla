@@ -20,8 +20,8 @@
 
 [![Twitter: itshivamshukla]](https://twitter.com/itshivamshukla)
 [![Linkedin: ishivamshukla]()](https://www.linkedin.com/in/ishivamshukla/)
-[![GitHub ishivamshukla]](https://github.com/ishivamshukla)
-[![website]](https://ishivamshukla.in/)
+[GitHub ishivamshukla](https://github.com/ishivamshukla)
+[website](https://ishivamshukla.in/)
 
 
 <a href="https://app.daily.dev/ishivamshukla"><img align="right" src="https://api.daily.dev/devcards/a4245da21dc747d88629a1241ceaf901.png?r=vbd" width="300" alt="Shivam Shukla's Dev Card"/></a>
