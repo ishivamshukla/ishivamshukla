@@ -18,17 +18,13 @@
 - 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
 - 😄 Pronouns: He/His -->
 
-[![Twitter: itshivamshukla]](https://twitter.com/itshivamshukla)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/kishan-kunal/)
-![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
-[ishivamshukla.in](https://ishivamshukla.in/)
-
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/kishan-kunal/)
 ![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
 
+  
+  
 
 <a href="https://app.daily.dev/ishivamshukla"><img align="right" src="https://api.daily.dev/devcards/a4245da21dc747d88629a1241ceaf901.png?r=vbd" width="300" alt="Shivam Shukla's Dev Card"/></a>
 
