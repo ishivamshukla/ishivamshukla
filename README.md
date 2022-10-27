@@ -1,5 +1,5 @@
 
-## <h2>नमस्ते (Namaste)🙏, I'm [Shivam Shukla!](https://ishivamshukla.in)
+## <h2>नमस्ते (Namaste)🙏, I'm [Shivam Shukla!](https://bit.ly/m/ishivamshukla)
 
 <!-- ### Connect with me:
 <a href="https://instagram.com/ishivamshukla" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="santdas36" height="40" width="40" /></a>
