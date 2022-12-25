@@ -20,7 +20,7 @@
 
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
-![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
 
   
