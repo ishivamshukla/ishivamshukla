@@ -24,7 +24,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
 
   
-  
+  <a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="280" alt="Shivam Shukla's Dev Card"/></a>
+
 
 
 
@@ -48,7 +49,6 @@
 
 <br/>
 
-<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="300" alt="Shivam Shukla's Dev Card"/></a>
 
 
 
