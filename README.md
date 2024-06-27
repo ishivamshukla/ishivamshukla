@@ -26,7 +26,8 @@
   
   
 
-<a href="https://app.daily.dev/ishivamshukla"><img align="right" src="https://api.daily.dev/devcards/a4245da21dc747d88629a1241ceaf901.png?r=vbd" width="300" alt="Shivam Shukla's Dev Card"/></a>
+<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="356" alt="Shivam Shukla's Dev Card"/></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
