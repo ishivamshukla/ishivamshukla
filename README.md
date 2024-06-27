@@ -1,30 +1,27 @@
 ## <h2>नमस्ते (Namaste)🙏, I'm [Shivam Shukla!](https://bit.ly/m/ishivamshukla)
 
-<!-- ### Connect with me:
-<a href="https://instagram.com/ishivamshukla" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="santdas36" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ishivamshukla" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
-<a href="https://fb.com/itshivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
-<a href="https://twitter.com/itshivamshukla" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="santdas36" height="40" width="40" style="margin-left: 10px" /></a>
-<br/>
-<br/> -->
-
-
-<!-- - 🔭 I’m currently working on [Orcip](https://orcip.com/).
-- 🌱 I’m currently learning more about Nextjs and Gatsby.
-- 💬 Ask me about JavaScript or any tech related stuff.
-- 💬 Ask me about React or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @itshivamshukla](https://twitter.com/itshivamshukla)
-- 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
-- 😄 Pronouns: He/His -->
-
-
 [![Linkedin: ishivamshukla](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
 <!-- ![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
 
+
+
+I'm a Senior Frontend Developer with industry experience building web applications. I specialize in UI and JavaScript and have professional experience working with ReactJS. 
+I have experience and proficiency in utilizing React.js for designing and developing User Interfaces.
+
+- 🔭 I’m currently working on [Droom](https://droom.in/).
+- 🌱 I’m currently learning more about Nextjs and AI Tools.
+- 💬 Ask me about JavaScript, React, or UI-related tech-related stuff.
+- 📫 How to reach me: [Twitter - @itshivamshukla](https://twitter.com/itshivamshukla)
+- 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
+- 😄 Pronouns: He/His
+
+
+
 <div align="right">
 <a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="280" alt="Shivam Shukla's Dev Card"/></a>
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
