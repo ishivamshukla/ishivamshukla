@@ -1,4 +1,3 @@
-
 ## <h2>नमस्ते (Namaste)🙏, I'm [Shivam Shukla!](https://bit.ly/m/ishivamshukla)
 
 <!-- ### Connect with me:
@@ -10,25 +9,22 @@
 <br/> -->
 
 
-<!-- - 🔭 I’m currently working on [Orcip](https://orcip.com/).
+<!-- - 🔭 I’m currently working on [Droom](https://droom.in/).
 - 🌱 I’m currently learning more about Nextjs and Gatsby.
-- 💬 Ask me about JavaScript or any tech related stuff.
+- 💬 Ask me about JavaScript or any tech-related stuff.
 - 💬 Ask me about React or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @itshivamshukla](https://twitter.com/itshivamshukla)
 - 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
 - 😄 Pronouns: He/His -->
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
+[![Linkedin: ishivamshukla](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
 <!-- ![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
 
-  
-  <a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="280" alt="Shivam Shukla's Dev Card"/></a>
-
-
-
-
+<div align="right">
+<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="280" alt="Shivam Shukla's Dev Card"/></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -44,24 +40,23 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-   </p>
+ <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+ <a href="https://tailwindcss.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
+ <a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 <br/>
 
-
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&layout=compact&hide=html)
 
 <a href="https://github.com/ishivamshukla">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishivamshukla&show_icons=true&theme=light&line_height=27" alt="Shivam Shukla's github stats"/>
 </a>
   
-  <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ishivamshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="santdas36" /></a></p><br><br>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ishivamshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="ishivamshukla" /></a></p><br><br>
   
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
