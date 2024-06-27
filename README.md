@@ -26,7 +26,7 @@
   
   
 
-<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="356" alt="Shivam Shukla's Dev Card"/></a>
+<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="300" alt="Shivam Shukla's Dev Card"/></a>
 
 
 
