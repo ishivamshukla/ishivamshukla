@@ -26,7 +26,6 @@
   
   
 
-<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="300" alt="Shivam Shukla's Dev Card"/></a>
 
 
 
@@ -48,6 +47,9 @@
    </p>
 
 <br/>
+
+<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="300" alt="Shivam Shukla's Dev Card"/></a>
+
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&layout=compact&hide=html)
