@@ -1,61 +1,99 @@
-## <h2>नमस्ते (Namaste)🙏, I'm [Shivam Shukla!](https://bit.ly/m/ishivamshukla)
+## <h2>नमस्ते (Namaste)🙏, I'm [Shivam Shukla!](https://ishivamshukla.in)
 
-[![Linkedin: ishivamshukla](https://img.shields.io/badge/-ishivamshukla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishivamshukla/)](https://www.linkedin.com/in/ishivamshukla/)
-<!-- ![GitHub followers](https://img.shields.io/github/followers/ishivamshukla?label=Follow&style=social) -->
-![](https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla)
-
-
-
-I'm a Senior Frontend Developer with industry experience building web applications. I specialize in UI and JavaScript and have professional experience working with ReactJS. 
-I have experience and proficiency in utilizing React.js for designing and developing User Interfaces.
-
-- 🔭 I’m currently working on [Droom](https://droom.in/).
-- 🌱 I’m currently learning more about Nextjs and AI Tools.
-- 💬 Ask me about JavaScript, React, or UI-related tech-related stuff.
-- 📫 How to reach me: [Twitter - @itshivamshukla](https://twitter.com/itshivamshukla)
-- 📫 How to reach me: [LinkedIn - ishivamshukla](https://linkedin.com/in/ishivamshukla)
-- 😄 Pronouns: He/His
-
-
-
-<div align="right">
-<a href="https://app.daily.dev/ishivamshukla"><img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="280" alt="Shivam Shukla's Dev Card"/></a>
-</div>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> </a>
- <a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+🚀 Frontend Engineer | ⚡ UI Specialist | 🤖 Exploring AI + Web
 </p>
 
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&layout=compact&hide=html&theme=default)
-
-<a href="https://github.com/ishivamshukla">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishivamshukla&show_icons=true&theme=default&line_height=27" alt="Shivam Shukla's github stats"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/ishivamshukla/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-  
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ishivamshukla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="ishivamshukla" /></a></p><br><br>
-  
-<div align="center">
+<a href="https://twitter.com/itshivamshukla">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=ishivamshukla.ishivamshukla&style=for-the-badge"/> -->
+</p>
 
-### Show some ❤️ by starring some of the repositories!
+---
 
-</div>
+## 💡 About Me
+
+✨ Senior Frontend Developer crafting **scalable & high-performance UI systems**  
+⚡ Currently building at **Droom**  
+🧠 Diving deep into **AI-powered frontend experiences**  
+🎯 Passionate about **clean architecture + real-world impact**
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Building modern apps with **Next.js + Tailwind**
+- 🤖 Integrating **AI tools into frontend workflows**
+- ⚡ Performance optimization & reusable components
+- 🎨 Designing pixel-perfect, scalable UI systems
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,bootstrap,materialui,firebase,figma,python,sass,express,webpack,git" />
+</p>
+
+---
+
+## 🤖 AI + Future Tech
+
+💡 Exploring how AI can enhance frontend:
+
+- Smart UI & personalization
+- Chat-based interfaces (AI Assistants)
+- API integrations (OpenAI, automation tools)
+- Data-driven dashboards & insights
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ishivamshukla&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishivamshukla&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧩 Dev Card
+
+<p align="center">
+<a href="https://app.daily.dev/ishivamshukla">
+  <img src="https://api.daily.dev/devcards/v2/uNOAktdrj.png?type=default&r=y37" width="300"/>
+</a>
+</p>
+
+---
+
+## 💬 Let's Connect
+
+💡 Ask me about:
+- React / Next.js
+- UI Architecture
+- Performance Optimization
+- AI in Frontend
+
+📩 Reach me here:
+- LinkedIn: https://linkedin.com/in/ishivamshukla  
+- Twitter: https://twitter.com/itshivamshukla  
+
+---
+
+## ☕ Support
+
+<a href="https://www.buymeacoffee.com/ishivamshukla">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200"/>
+</a>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring a repo!
+</p>
